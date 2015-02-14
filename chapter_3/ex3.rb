@@ -5,16 +5,16 @@ puts 'I will count my chickens:'
 puts "Hens #{25 + 30 / 6}"
 
 # prints string and string of 100 minus the remainder of 25 times 3 divided by 4
-puts "Roosters #{100.0 -25 * 3 % 4}"
+puts "Roosters #{100.0 - 25 * 3 % 4}"
 
 # puts string
 puts 'Now I will count the eggs:'
 
 # puts result of this math using PEMDAS
-puts 3.00 + 2 + 1 - 5 + 4 % 2 -1 / 4 + 6
+puts 3.00 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 
 # prints string
-puts 'Is it true that 3 + 2 < 5 -7?'
+puts 'Is it true that 3 + 2 < 5 - 7 ?'
 
 # prints true boolean
 puts 3 + 2 < 5 - 7
