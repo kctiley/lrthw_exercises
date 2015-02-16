@@ -1,21 +1,14 @@
-types_of_people = 10
-x = "There are #{types_of_people} types of people."
-binary = "binary"
-do_not = "don't"
-y = "Those who know #{binary} and those who #{do_not}."
 
-puts x
-puts y
+Study Drills:
 
-puts "I said: #{x}."
-puts "I also said: '#{y}'."
+Lines with strings inside strings 5, 8, 10, 11, 14, 16, 21
 
-hilarious = false
-joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
+Adding strings makes a longer string since strings
+are actually arrays and a new array is made from the two smaller arrays.
 
-puts joke_evaluation
+Double quotes are required for interpolation otherwise the #{} is just
+expressed literally.
 
-w = "This is the left side of..."
-e = "a string with a right side."
+Rubocop corrections:
 
-puts w + e
+Deleted trailing line.
