@@ -27,7 +27,6 @@ puts "Actually that's not too heavy."
 puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth}  depending on the coffee."
 
-puts "If I add #{age}, #{height * convert_to_centimeters}, and
-#{weight * convert_to_kilograms} I get
-#{age + height * convert_to_centimeters + weight * convert_to_kilograms}."
-puts ''
+puts "If I add #{age}, #{height * convert_to_centimeters}, and "\
+"#{weight * convert_to_kilograms} I get "\
+"#{age + height * convert_to_centimeters + weight * convert_to_kilograms}."
