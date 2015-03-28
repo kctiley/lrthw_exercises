@@ -1,7 +1,8 @@
 
 Study Drills:
 
-Lines with strings inside strings 5, 8, 10, 11, 14, 16, 21
+He is telling the truth.  Four strings inside strings.  Interpolation
+does not count.
 
 Adding strings makes a longer string since strings
 are actually arrays and a new array is made from the two smaller arrays.
